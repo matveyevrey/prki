@@ -1,0 +1,82 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    int firstValue = 13;
+    cout << "firstValue = " << firstValue << endl;
+
+    int secondValue = 12;
+    cout << "secondValue = " << secondValue << endl;
+
+    int thirdValue = 11;
+    cout << "thirdValue = " << thirdValue << endl;
+
+    int fourthValue = 14;
+    cout << "fourthValue = " << fourthValue << endl;
+
+    int fifthValue = 15;
+    cout << "fifthValue = " << fifthValue << endl;
+
+    short smallNum1 = 3;
+    cout << "smallNum1 = " << smallNum1 << endl;
+
+    short smallNum2 = 8;
+    cout << "smallNum2 = " << smallNum2 << endl;
+
+    short smallNum3 = 7;
+    cout << "smallNum3 = " << smallNum3 << endl;
+
+    short smallNum4 = 6;
+    cout << "smallNum4 = " << smallNum4 << endl;
+
+    short smallNum5 = 1;
+    cout << "smallNum5 = " << smallNum5 << endl;
+
+    float decimal1 = 1.4;
+    cout << "decimal1 = " << decimal1 << endl;
+
+    float decimal2 = 1.9;
+    cout << "decimal2 = " << decimal2 << endl;
+
+    float decimal3 = 1.1;
+    cout << "decimal3 = " << decimal3 << endl;
+
+    float decimal4 = 1.2;
+    cout << "decimal4 = " << decimal4 << endl;
+
+    float decimal5 = 1.6;
+    cout << "decimal5 = " << decimal5 << endl;
+
+    double precise1 = 1.47;
+    cout << "precise1 = " << precise1 << endl;
+
+    double precise2 = 1.37;
+    cout << "precise2 = " << precise2 << endl;
+
+    double precise3 = 1.17;
+    cout << "precise3 = " << precise3 << endl;
+
+    double precise4 = 1.56;
+    cout << "precise4 = " << precise4 << endl;
+
+    double precise5 = 1.87;
+    cout << "precise5 = " << precise5 << endl;
+
+    char letter1 = 'a';
+    cout << "letter1 = " << letter1 << endl;
+
+    char letter2 = 'b';
+    cout << "letter2 = " << letter2 << endl;
+
+    char letter3 = 'c';
+    cout << "letter3 = " << letter3 << endl;
+
+    char letter4 = 'd';
+    cout << "letter4 = " << letter4 << endl;
+
+    char letter5 = 'e';
+    cout << "letter5 = " << letter5 << endl;
+
+    return 0;
+}
